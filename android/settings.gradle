@@ -1,0 +1,3 @@
+rootProject.name = 'appNumeroAleatorio'
+
+include ':app'
